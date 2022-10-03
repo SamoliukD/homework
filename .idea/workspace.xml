@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de63c038-43b6-4221-a82d-2e549b555ec3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GraphicEditor/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GraphicEditor/Quad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GraphicEditor/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GraphicEditor/Rhombus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GraphicEditor/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GraphicEditor/ShapePrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GraphicEditor/ShapeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GraphicEditor/Square.java" afterDir="false" />
-    </list>
+    <list default="true" id="de63c038-43b6-4221-a82d-2e549b555ec3" name="Changes" comment="First try homework Samoliuk" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,6 +65,14 @@
       <option name="presentableId" value="Default" />
       <updated>1664782930911</updated>
     </task>
+    <task id="LOCAL-00001" summary="First try homework Samoliuk">
+      <created>1664802523150</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664802523150</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,5 +85,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First try homework Samoliuk" />
+    <option name="LAST_COMMIT_MESSAGE" value="First try homework Samoliuk" />
   </component>
 </project>
